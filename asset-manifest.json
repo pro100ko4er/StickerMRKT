@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/StickerMRKT/static/css/main.8cd812e0.css",
+    "main.css": "/StickerMRKT/static/css/main.a7ede6c6.css",
     "main.js": "/StickerMRKT/static/js/main.99d61221.js",
     "static/js/453.dd4a16ce.chunk.js": "/StickerMRKT/static/js/453.dd4a16ce.chunk.js",
     "static/media/logo.jpg": "/StickerMRKT/static/media/logo.7b6157e14efb6448343f.jpg",
     "index.html": "/StickerMRKT/index.html",
-    "main.8cd812e0.css.map": "/StickerMRKT/static/css/main.8cd812e0.css.map",
+    "main.a7ede6c6.css.map": "/StickerMRKT/static/css/main.a7ede6c6.css.map",
     "main.99d61221.js.map": "/StickerMRKT/static/js/main.99d61221.js.map",
     "453.dd4a16ce.chunk.js.map": "/StickerMRKT/static/js/453.dd4a16ce.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8cd812e0.css",
+    "static/css/main.a7ede6c6.css",
     "static/js/main.99d61221.js"
   ]
 }
